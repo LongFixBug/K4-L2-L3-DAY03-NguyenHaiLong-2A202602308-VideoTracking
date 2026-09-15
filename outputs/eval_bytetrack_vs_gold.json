@@ -2,8 +2,8 @@
   "clip": "clip_01",
   "frames": 190,
   "iou_threshold": 0.5,
-  "pred_file": "/content/Day3-Lab/outputs/model_bytetrack_clip_01.txt",
-  "gt_file": "/content/Day3-Lab/gold/clip_01/gt.txt",
+  "pred_file": "C:\\Users\\ASUS\\Documents\\lap-vinU\\K4-L2-L3-DAY03-VideoTracking\\outputs\\model_bytetrack_clip_01.txt",
+  "gt_file": "C:\\Users\\ASUS\\Documents\\lap-vinU\\K4-L2-L3-DAY03-VideoTracking\\gold\\clip_01\\gt.txt",
   "pred_label": "yolo26n.pt + ByteTrack control",
   "gt_label": "gold clip_01",
   "metrics": {

@@ -2,8 +2,8 @@
   "clip": "clip_01",
   "frames": 190,
   "iou_threshold": 0.5,
-  "pred_file": "/content/Day3-Lab/annotations/clip_01/gt.txt",
-  "gt_file": "/content/Day3-Lab/gold/clip_01/gt.txt",
+  "pred_file": "C:\\Users\\ASUS\\Documents\\lap-vinU\\K4-L2-L3-DAY03-VideoTracking\\annotations\\clip_01\\gt.txt",
+  "gt_file": "C:\\Users\\ASUS\\Documents\\lap-vinU\\K4-L2-L3-DAY03-VideoTracking\\gold\\clip_01\\gt.txt",
   "pred_label": "nhãn của bạn",
   "gt_label": "gold clip_01",
   "metrics": {
